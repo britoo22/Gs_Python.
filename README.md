@@ -11,3 +11,5 @@ Treinamento Automático: Nossa solução evolui continuamente, aprendendo com os
 Protocolo de Atendimento: Mantemos o controle de cada protocolo de atendimento, assegurando uma experiência completa e organizada.
 Imagine uma plataforma que não apenas facilita o trabalho dos profissionais de saúde, mas também melhora a experiência dos pacientes. O Health4U não é apenas um sistema; é uma revolução na gestão de informações médicas.
 Para o python, fizemos um menu interativo para que seja possível navegar da menor maneira possível, com uma interface básica e prática em base e menus, indentificando, pacientes, médicos e outros. 
+
+LINK PARA VÍDEO: https://youtu.be/NmtpGFtPOAE?si=3P4Iwzp89CT7H7TN
