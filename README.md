@@ -13,4 +13,5 @@ Imagine uma plataforma que não apenas facilita o trabalho dos profissionais de 
 Para o python, fizemos um menu interativo para que seja possível navegar da menor maneira possível, com uma interface básica e prática em base e menus, indentificando, pacientes, médicos e outros. 
 
 LINK PARA VÍDEO: https://youtu.be/NmtpGFtPOAE?si=3P4Iwzp89CT7H7TN
+
 LINK GITHUB COM COMMITS: https://github.com/britoo22/Gs_Python.
